@@ -11,4 +11,4 @@ CREATE TABLE `task` (
   `admin_edit` tinyint(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-Login and password you can see in settings.php file/
+Login and password you can see in settings.php file.
